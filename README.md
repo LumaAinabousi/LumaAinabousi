@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @LumaAinabousi
 - A recent Computer Science Graduate!!
 - My main interests in the field are:
-  - DevOps
+  - Cloud
   - IaaC
   - The design and development of database management systems
   - Backend development
